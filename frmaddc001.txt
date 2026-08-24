@@ -1,0 +1,2144 @@
+Computername: frmaddc001
+Destination reachable: Yes (computer has one or more active LAN cards)
+IP address: 10.254.200.30
+MAC address: 00-0D-60-6F-87-D2
+Domain: RTDOMAU
+OS: Windows NT
+Version: 5.2
+Processor: x86 Family 15 Model 4 Stepping 1
+ProcessorCount: Multiprocessor Free
+
+Hotfixes:
+Hotfix: KB823182
+Comments: Windows Server 2003 Hotfix - KB 823182
+Fix Description: Windows Server 2003 Hotfix - KB 823182
+
+Hotfix: KB823353
+Comments: Windows Server 2003 Hotfix - KB 823353
+Fix Description: Windows Server 2003 Hotfix - KB 823353
+
+Hotfix: KB823559
+Comments: Windows Server 2003 Hotfix - KB 823559
+Fix Description: Windows Server 2003 Hotfix - KB 823559
+
+Hotfix: KB824105
+Comments: Windows Server 2003 Hotfix - KB 824105
+Fix Description: Windows Server 2003 Hotfix - KB 824105
+
+Hotfix: KB825119
+Comments: Windows Server 2003 Hotfix - KB 825119
+Fix Description: Windows Server 2003 Hotfix - KB 825119
+
+Hotfix: KB828035
+Comments: Windows Server 2003 Hotfix - KB 828035
+Fix Description: Windows Server 2003 Hotfix - KB 828035
+
+Hotfix: KB828741
+Comments: Windows Server 2003 Hotfix - KB 828741
+Fix Description: Windows Server 2003 Hotfix - KB 828741
+
+Hotfix: KB833987
+Comments: Windows Server 2003 Hotfix - KB 833987
+Fix Description: Windows Server 2003 Hotfix - KB 833987
+
+Hotfix: KB835732
+Comments: Windows Server 2003 Hotfix - KB 835732
+Fix Description: Windows Server 2003 Hotfix - KB 835732
+
+Hotfix: KB837001
+Comments: Windows Server 2003 Hotfix - KB 837001
+Fix Description: Windows Server 2003 Hotfix - KB 837001
+
+Hotfix: KB839643
+Comments: Windows Server 2003 Hotfix - KB 839643
+Fix Description: Windows Server 2003 Hotfix - KB 839643
+
+Hotfix: KB839645
+Comments: Windows Server 2003 Hotfix - KB 839645
+Fix Description: Windows Server 2003 Hotfix - KB 839645
+
+Hotfix: KB840315
+Comments: Windows Server 2003 Hotfix - KB 840315
+Fix Description: Windows Server 2003 Hotfix - KB 840315
+
+Hotfix: KB840374
+Comments: Windows Server 2003 Hotfix - KB 840374
+Fix Description: Windows Server 2003 Hotfix - KB 840374
+
+Hotfix: KB840987
+Comments: Windows Server 2003 Hotfix - KB 840987
+Fix Description: Windows Server 2003 Hotfix - KB 840987
+
+Hotfix: KB842933
+Comments: Windows Server 2003 Hotfix - KB 842933
+Fix Description: Windows Server 2003 Hotfix - KB 842933
+
+Hotfix: KB867460
+Comments: Windows Server 2003 Hotfix - KB 867460
+Fix Description: Windows Server 2003 Hotfix - KB 867460
+
+Hotfix: Q147222
+Comments: 
+Fix Description: 
+
+Hotfix: Q828026
+Comments: Windows Media Player Hotfix [See Q828026 for more information]
+Fix Description: Windows Media Player Hotfix [See Q828026 for more information]
+
+----------------------------------------
+Application List:
+Application: AddressBook
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: Branding
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: Connection Manager
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: DirectAnimation
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: DirectDrawEx
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: DXM_Runtime
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: Fontcore
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: ICW
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: IE40
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: IE4Data
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: IE5BAKEX
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: IEData
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: InstallShield Uninstall Information
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: InstallShield_{D7E2F983-97AA-4F9A-B327-54DE078C9466}
+Display Name: ServeRAID Manager
+Display Version: 7.00.15
+Publisher: IBM
+Help URL: 
+
+Application: KB823182
+Display Name: Windows Server 2003 Hotfix - KB 823182
+Display Version: 20030710.124724
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=823182
+
+Application: KB823353
+Display Name: Windows Server 2003 Hotfix - KB 823353
+Display Version: 20040622.155431
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=823353
+
+Application: KB823559
+Display Name: Windows Server 2003 Hotfix - KB 823559
+Display Version: 20030627.145112
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=823559
+
+Application: KB824105
+Display Name: Windows Server 2003 Hotfix - KB 824105
+Display Version: 20030718.153436
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=824105
+
+Application: KB825119
+Display Name: Windows Server 2003 Hotfix - KB 825119
+Display Version: 20030825.144649
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=825119
+
+Application: KB828035
+Display Name: Windows Server 2003 Hotfix - KB 828035
+Display Version: 20031023.105509
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=828035
+
+Application: KB828741
+Display Name: Windows Server 2003 Hotfix - KB 828741
+Display Version: 20040315.185602
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=828741
+
+Application: KB833987
+Display Name: Windows Server 2003 Hotfix - KB 833987
+Display Version: 20040323.165707
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=833987
+
+Application: KB835732
+Display Name: Windows Server 2003 Hotfix - KB 835732
+Display Version: 20040315.174956
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=835732
+
+Application: KB837001
+Display Name: Windows Server 2003 Hotfix - KB 837001
+Display Version: 20040306.190153
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=837001
+
+Application: KB839643
+Display Name: Windows Server 2003 Hotfix - KB 839643
+Display Version: 20040507.124344
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=839643
+
+Application: KB839645
+Display Name: Windows Server 2003 Hotfix - KB 839645
+Display Version: 20040512.165354
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=839645
+
+Application: KB840315
+Display Name: Windows Server 2003 Hotfix - KB 840315
+Display Version: 20040622.165150
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=840315
+
+Application: KB840374
+Display Name: Windows Server 2003 Hotfix - KB 840374
+Display Version: 20040414.225127
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=840374
+
+Application: KB840987
+Display Name: Windows Server 2003 Hotfix - KB 840987
+Display Version: 20040927.130818
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=840987
+
+Application: KB842933
+Display Name: Windows Server 2003 Hotfix - KB 842933
+Display Version: 20040809.152013
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=842933
+
+Application: KB867460
+Display Name: Windows Server 2003 Hotfix - KB 867460
+Display Version: 20040724.151452
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com/?kbid=867460
+
+Application: KB870669
+Display Name: Microsoft Data Access Components KB870669
+Display Version: 
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com?kbid=KB870669
+
+Application: KB885492
+Display Name: Windows Media Player 9 Hotfix [See KB885492 for more information]
+Display Version: 
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com?kbid=885492
+
+Application: MobileOptionPack
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: MPlayer2
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: NetMeeting
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: OutlookExpress
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: PCHealth
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: Q828026
+Display Name: Windows Media Player Hotfix [See Q828026 for more information]
+Display Version: 
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com?kbid=828026
+
+Application: SchedulingAgent
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: {2CF3A23B-12BF-4B99-BF44-8B5554EC9D85}
+Display Name: IBM Tivoli Storage Manager Client
+Display Version: 05.02.0300
+Publisher: IBM
+Help URL: 
+
+Application: {3248F0A8-6813-11D6-A77B-00B0D0150010}
+Display Name: J2SE Runtime Environment 5.0 Update 1
+Display Version: 1.5.0.10
+Publisher: Sun Microsystems, Inc.
+Help URL: 
+
+Application: {8398B542-3CC4-44D9-83DF-696CCE70124B}
+Display Name: Windows Support Tools
+Display Version: 5.2.3790
+Publisher: Microsoft Corporation
+Help URL: 
+
+Application: {930B4F57-4AFF-453C-9B06-9371D2616055}
+Display Name: IBM Director Agent
+Display Version: 4.20.2
+Publisher: IBM Corporation
+Help URL: 
+
+Application: {AC76BA86-7AD7-1033-7B44-A70000000000}
+Display Name: Adobe Reader 7.0
+Display Version: 7.0.0
+Publisher: Adobe Systems Incorporated
+Help URL: 
+
+Application: {CA3553E0-191B-4E2F-AD3C-82E33CB9D4E4}
+Display Name: Microsoft Group Policy Management Console with SP1
+Display Version: 1.0.2.0
+Publisher: Microsoft Corporation
+Help URL: 
+
+Application: {D7E2F983-97AA-4F9A-B327-54DE078C9466}
+Display Name: ServeRAID Manager
+Display Version: 7.00.15
+Publisher: IBM
+Help URL: 
+
+----------------------------------------
+Executables:
+----------------------------------------
+Services: 
+Display name: Alerter
+Service name: Alerter
+State: Stopped
+Account: NT AUTHORITY\LocalService
+Startup: Disabled
+
+Display name: Application Layer Gateway Service
+Service name: ALG
+State: Stopped
+Account: NT AUTHORITY\LocalService
+Startup: Disabled
+
+Display name: Application Management
+Service name: AppMgmt
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Windows Audio
+Service name: AudioSrv
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Remote Installation
+Service name: BINLSVC
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Background Intelligent Transfer Service
+Service name: BITS
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Computer Browser
+Service name: Browser
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Indexing Service
+Service name: CiSvc
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: ClipBook
+Service name: ClipSrv
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: COM+ System Application
+Service name: COMSysApp
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Cryptographic Services
+Service name: CryptSvc
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Distributed File System
+Service name: Dfs
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: DHCP Client
+Service name: Dhcp
+State: Running
+Account: NT AUTHORITY\NetworkService
+Startup: Auto
+
+Display name: IBM Director Agent Web Server
+Service name: DirWbs
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Logical Disk Manager Administrative Service
+Service name: dmadmin
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Logical Disk Manager
+Service name: dmserver
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: DNS Server
+Service name: DNS
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: DNS Client
+Service name: Dnscache
+State: Running
+Account: NT AUTHORITY\NetworkService
+Startup: Auto
+
+Display name: Error Reporting Service
+Service name: ERSvc
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Event Log
+Service name: Eventlog
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: COM+ Event System
+Service name: EventSystem
+State: Running
+Account: LocalSystem
+Startup: Manual
+
+Display name: Single Instance Storage Groveler
+Service name: Groveler
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Help and Support
+Service name: helpsvc
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Human Interface Device Access
+Service name: HidServ
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: HTTP SSL
+Service name: HTTPFilter
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: IMAPI CD-Burning COM Service
+Service name: ImapiService
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Intersite Messaging
+Service name: IsmServ
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Kerberos Key Distribution Center
+Service name: kdc
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Server
+Service name: lanmanserver
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Workstation
+Service name: lanmanworkstation
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: License Logging
+Service name: LicenseService
+State: Stopped
+Account: NT AUTHORITY\NetworkService
+Startup: Disabled
+
+Display name: TCP/IP NetBIOS Helper
+Service name: LmHosts
+State: Running
+Account: NT AUTHORITY\LocalService
+Startup: Auto
+
+Display name: Messenger
+Service name: Messenger
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: NetMeeting Remote Desktop Sharing
+Service name: mnmsrvc
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Distributed Transaction Coordinator
+Service name: MSDTC
+State: Running
+Account: NT AUTHORITY\NetworkService
+Startup: Auto
+
+Display name: Windows Installer
+Service name: MSIServer
+State: Stopped
+Account: LocalSystem
+Startup: Auto
+
+Display name: Network DDE
+Service name: NetDDE
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Network DDE DSDM
+Service name: NetDDEdsdm
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Net Logon
+Service name: Netlogon
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Network Connections
+Service name: Netman
+State: Running
+Account: LocalSystem
+Startup: Manual
+
+Display name: Network Location Awareness (NLA)
+Service name: Nla
+State: Running
+Account: LocalSystem
+Startup: Manual
+
+Display name: File Replication Service
+Service name: NtFrs
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: NT LM Security Support Provider
+Service name: NtLmSsp
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Removable Storage
+Service name: NtmsSvc
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Plug and Play
+Service name: PlugPlay
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: IPSEC Services
+Service name: PolicyAgent
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Protected Storage
+Service name: ProtectedStorage
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Remote Access Auto Connection Manager
+Service name: RasAuto
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Remote Access Connection Manager
+Service name: RasMan
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Remote Desktop Help Session Manager
+Service name: RDSessMgr
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Routing and Remote Access
+Service name: RemoteAccess
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Remote Registry
+Service name: RemoteRegistry
+State: Running
+Account: NT AUTHORITY\LocalService
+Startup: Auto
+
+Display name: Remote Procedure Call (RPC) Locator
+Service name: RpcLocator
+State: Running
+Account: NT AUTHORITY\NetworkService
+Startup: Auto
+
+Display name: Remote Procedure Call (RPC)
+Service name: RpcSs
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Resultant Set of Policy Provider
+Service name: RSoPProv
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Special Administration Console Helper
+Service name: sacsvr
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Security Accounts Manager
+Service name: SamSs
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Smart Card
+Service name: SCardSvr
+State: Stopped
+Account: NT AUTHORITY\LocalService
+Startup: Disabled
+
+Display name: Task Scheduler
+Service name: Schedule
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Secondary Logon
+Service name: seclogon
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: System Event Notification
+Service name: SENS
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: ServeRAID Manager Agent
+Service name: ServeRAIDManagerAgent
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Internet Connection Firewall (ICF) / Internet Connection Sharing (ICS)
+Service name: SharedAccess
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Shell Hardware Detection
+Service name: ShellHWDetection
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: SNMP Service
+Service name: SNMP
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: SNMP Trap Service
+Service name: SNMPTRAP
+State: Stopped
+Account: NT AUTHORITY\LocalService
+Startup: Manual
+
+Display name: Print Spooler
+Service name: Spooler
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Windows Image Acquisition (WIA)
+Service name: stisvc
+State: Stopped
+Account: NT AUTHORITY\LocalService
+Startup: Disabled
+
+Display name: Microsoft Software Shadow Copy Provider
+Service name: swprv
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Performance Logs and Alerts
+Service name: SysmonLog
+State: Stopped
+Account: NT Authority\NetworkService
+Startup: Manual
+
+Display name: Telephony
+Service name: TapiSrv
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Terminal Services
+Service name: TermService
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Trivial FTP Daemon
+Service name: TFTPD
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Themes
+Service name: Themes
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Telnet
+Service name: TlntSvr
+State: Stopped
+Account: NT AUTHORITY\LocalService
+Startup: Disabled
+
+Display name: Distributed Link Tracking Server
+Service name: TrkSvr
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Distributed Link Tracking Client
+Service name: TrkWks
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Terminal Services Session Directory
+Service name: Tssdis
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: IBM Director Support Program
+Service name: TWGIPC
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Upload Manager
+Service name: uploadmgr
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Uninterruptible Power Supply
+Service name: UPS
+State: Stopped
+Account: NT AUTHORITY\LocalService
+Startup: Disabled
+
+Display name: Virtual Disk Service
+Service name: vds
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Volume Shadow Copy
+Service name: VSS
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Windows Time
+Service name: W32Time
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: WebClient
+Service name: WebClient
+State: Stopped
+Account: NT AUTHORITY\LocalService
+Startup: Disabled
+
+Display name: WinHTTP Web Proxy Auto-Discovery Service
+Service name: WinHttpAutoProxySvc
+State: Stopped
+Account: NT AUTHORITY\LocalService
+Startup: Disabled
+
+Display name: Windows Management Instrumentation
+Service name: winmgmt
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Portable Media Serial Number Service
+Service name: WmdmPmSN
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Windows Management Instrumentation Driver Extensions
+Service name: Wmi
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: WMI Performance Adapter
+Service name: WmiApSrv
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: IBM Director Agent WMI CIM Server
+Service name: wmicimserver
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Wireless Configuration
+Service name: WZCSVC
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+----------------------------------------
+Local Users:
+Name: Administrator
+Fullname: 
+Description: Built-in account for administering the computer/domain
+AccountDisabled: False
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: 
+
+Name: Alas.Atest
+Fullname: Alas ATest
+Description: 
+AccountDisabled: False
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: 
+
+Name: AndyGtest
+Fullname: AndyGtest
+Description: 
+AccountDisabled: False
+IsAccountLocked: False
+Profile: \\FRMRISS002\Profiles$\AndyGtest
+LoginScript: 
+HomeDirectory: 
+
+Name: AndyMtest
+Fullname: AndyMtest
+Description: 
+AccountDisabled: False
+IsAccountLocked: False
+Profile: \\FRMRISS002\Profiles$\AndyMtest
+LoginScript: 
+HomeDirectory: 
+
+Name: Another.Testuser
+Fullname: Another testUser
+Description: 
+AccountDisabled: False
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: \\cbdapps002\mydocuments$
+
+Name: BB10033
+Fullname: Mimi Ang
+Description: 
+AccountDisabled: False
+IsAccountLocked: False
+Profile: 
+LoginScript: ACT
+HomeDirectory: \\perbwds01\home
+
+Name: BB10057
+Fullname: Shirley Stacey
+Description: 
+AccountDisabled: False
+IsAccountLocked: False
+Profile: 
+LoginScript: TSL
+HomeDirectory: \\perbwds01\home
+
+Name: BB10544
+Fullname: Lim, Nicky
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: PMD
+HomeDirectory: \\perbwds01\home
+
+Name: BB11202
+Fullname: Woods, Rebecca
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ASU
+HomeDirectory: \\perbwds01\home
+
+Name: BB14493
+Fullname: Groves, Sarah
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: tsl
+HomeDirectory: \\perbwds01\home
+
+Name: BB15100
+Fullname: Heard, Jo
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: wep_vbs.cmd
+HomeDirectory: \\wepbwdcb1\home
+
+Name: BB15493
+Fullname: Wolfe, Julie
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: LSCN
+HomeDirectory: \\perbwds01\home
+
+Name: BB18001
+Fullname: Smith, Stephen
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ALB
+HomeDirectory: \\albbwdc01\home
+
+Name: BB18421
+Fullname: Dickmann, Kieta
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ADE
+HomeDirectory: \\adebwdc01\home
+
+Name: BB19035
+Fullname: Bolton, Heidi
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: adl
+HomeDirectory: \\perbwds01\home
+
+Name: BB20353
+Fullname: Pecotich, Jennifer
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: EBS
+HomeDirectory: \\perbwds01\home
+
+Name: BB20369
+Fullname: Mulligan, Jo
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: GPA
+HomeDirectory: \\perbwds01\home
+
+Name: BB21175
+Fullname: Gore, Ralph
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: wfa
+HomeDirectory: \\perbwds01\home
+
+Name: BB21731
+Fullname: Melissa Costarella
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: EBS
+HomeDirectory: \\perbwds01\home
+
+Name: BB22078
+Fullname: Murphy, Adam
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: tsl
+HomeDirectory: \\perbwds01\home
+
+Name: BB22167
+Fullname: Sleep, Nicky
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ADL
+HomeDirectory: \\perbwds01\home
+
+Name: BB25995
+Fullname: Walker, Russell
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ebs
+HomeDirectory: \\perbwds01\home
+
+Name: BB26434
+Fullname: Hughes, Ross
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: tre7
+HomeDirectory: \\perbwds01\home
+
+Name: BB26739
+Fullname: Whitehead, Chris
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ITA
+HomeDirectory: \\perbwds01\home
+
+Name: BB26997
+Fullname: Wren, Julie
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: TSLW
+HomeDirectory: \\perbwds01\home
+
+Name: BB27206
+Fullname: Moulton, Ross
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: SPL
+HomeDirectory: \\perbwds01\home
+
+Name: BB27256
+Fullname: Stephens, Stefanie
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ADE
+HomeDirectory: \\adebwdc01\home
+
+Name: BB27515
+Fullname: Richardson, Gaynor
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: lsu1
+HomeDirectory: \\perbwds01\home
+
+Name: BB27541
+Fullname: Land, Bruce
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: pal
+HomeDirectory: \\perbwds01\home
+
+Name: BB27707
+Fullname: Sotet, Helen
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: tsl
+HomeDirectory: \\perbwds01\home
+
+Name: BB29216
+Fullname: Aroozoo, Wayne
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: PMD
+HomeDirectory: \\perbwds01\home
+
+Name: BB29872
+Fullname: Drysdale, Isobel
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: BSS1
+HomeDirectory: \\perbwds01\home
+
+Name: BB30202
+Fullname: Abel, Cheryl
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ASU
+HomeDirectory: \\perbwds01\home
+
+Name: BB30503
+Fullname: Della Mora, Linda
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: adl
+HomeDirectory: \\perbwds01\home
+
+Name: BB30550
+Fullname: Chandler, Tanya
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: tsl
+HomeDirectory: \\perbwds01\home
+
+Name: BB30647
+Fullname: Watson, Jim
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: wep_vbs.cmd
+HomeDirectory: \\perbwds01\home
+
+Name: BB31055
+Fullname: Rolfe, John
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: PMD
+HomeDirectory: \\perbwds01\home
+
+Name: BB31140
+Fullname: Rossino, Lou
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: MLB
+HomeDirectory: \\mlbbwdc01\home
+
+Name: BB31758
+Fullname: Walsh, Leanne
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: MLB
+HomeDirectory: \\mlbbwdc01\home
+
+Name: BB32225
+Fullname: Walsh, Simon
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: OGD
+HomeDirectory: \\perbwds01\home
+
+Name: BB34790
+Fullname: McLaughlin, Rose
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: syd2
+HomeDirectory: \\sydbwdc02\home
+
+Name: BB35233
+Fullname: Mansfield, Margit
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: PDT
+HomeDirectory: \\perbwds01\home
+
+Name: BB35415
+Fullname: Towie, Peter
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ITP
+HomeDirectory: \\perbwds01\home
+
+Name: BB37132
+Fullname: Moretti, Lou
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: pal
+HomeDirectory: \\perbwds01\home
+
+Name: BB37301
+Fullname: Rubin, Josh
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: TRE1
+HomeDirectory: \\perbwds01\home
+
+Name: BB37437
+Fullname: Assafari, Haitham
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: tsl
+HomeDirectory: \\perbwds01\home
+
+Name: BB37704
+Fullname: Cheng, Meggie
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ACT
+HomeDirectory: \\perbwds01\home
+
+Name: BB37970
+Fullname: Deborah Tindall
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: wfa
+HomeDirectory: \\perbwds01\home
+
+Name: BB38493
+Fullname: Ward, Nicole
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: EXA
+HomeDirectory: \\perbwds01\home
+
+Name: BB38691
+Fullname: Vreeken, Gerry
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: bex
+HomeDirectory: \\perbwds01\home
+
+Name: BB39003
+Fullname: Bennington, Beverley
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: AUD
+HomeDirectory: \\perbwds01\home
+
+Name: BB39358
+Fullname: Bramanis, Damian
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: adl1
+HomeDirectory: \\frmbwds02\home
+
+Name: BB39651
+Fullname: Sean Langton
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: bolp
+HomeDirectory: \\frmbwds02\home
+
+Name: BB40638
+Fullname: Turner, Kerry
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: BOA
+HomeDirectory: \\perbwds01\home
+
+Name: BB40797
+Fullname: Birks, Jaymee
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: BSS1
+HomeDirectory: \\perbwds01\home
+
+Name: BB41395
+Fullname: Marks, Stuart
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ISM
+HomeDirectory: \\frmbwds02\home
+
+Name: BB41418
+Fullname: Lewins, Nick
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: lsu
+HomeDirectory: \\perbwds01\home
+
+Name: BB41874
+Fullname: Ratna, Raj
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: MLB
+HomeDirectory: \\mlbbwdc01\home
+
+Name: BB41905
+Fullname: Imbriani, Jamie
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ADE
+HomeDirectory: \\adebwdc01\home
+
+Name: BB42482
+Fullname: Daines, Janetta
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: OGD1
+HomeDirectory: \\perbwds01\home
+
+Name: BB43119
+Fullname: Traynor, David
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: SYD
+HomeDirectory: \\sydbwdc01\home
+
+Name: BB43305
+Fullname: Andersson, Anders
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: OGD
+HomeDirectory: 
+
+Name: BB43347
+Fullname: Stevens, Tammie
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: syd2
+HomeDirectory: \\sydbwdc02\home
+
+Name: BB43737
+Fullname: Way, Matthew
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: OGD
+HomeDirectory: \\perbwds01\home
+
+Name: BB43999
+Fullname: Tang, Belinda
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: OGD
+HomeDirectory: \\perbwds01\home
+
+Name: BB44102
+Fullname: Matthews, Warwick
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: syd2
+HomeDirectory: \\sydbwdc02\home
+
+Name: BB44458
+Fullname: Kitching, John
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: AUD
+HomeDirectory: \\perbwds01\home
+
+Name: BB44569
+Fullname: Kingston, Helen
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: wep_vbs.cmd
+HomeDirectory: \\wepbwdcb1\home
+
+Name: BB45789
+Fullname: McArthur, Rodger
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: crv
+HomeDirectory: \\perbwds01\home
+
+Name: BB46062
+Fullname: Dawkins, Rod
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: TRE1
+HomeDirectory: \\perbwds01\home
+
+Name: BB46117
+Fullname: Wickham, Harvey
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ADL
+HomeDirectory: \\perbwds01\home
+
+Name: BB46298
+Fullname: Sheridan, David
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: syd2
+HomeDirectory: \\sydbwdc02\home
+
+Name: BB46634
+Fullname: Phelan, Glen
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: BEX
+HomeDirectory: \\perbwds01\home
+
+Name: BB46757
+Fullname: Prior, Ina
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: BEX
+HomeDirectory: \\perbwds01\home
+
+Name: BB49983
+Fullname: Van Der Kooij, Christina
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: TSLW
+HomeDirectory: \\perbwds01\home
+
+Name: BB51580
+Fullname: Manso, Gianni
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: tsl
+HomeDirectory: \\perbwds01\home
+
+Name: BB52675
+Fullname: Silver, Annette
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: TSL
+HomeDirectory: \\perbwds01\home
+
+Name: BB57308
+Fullname: Turner, Helen
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: LSU
+HomeDirectory: \\perbwds01\home
+
+Name: BB60464
+Fullname: Vanessa Stewart
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: PAL
+HomeDirectory: \\perbwds01\home
+
+Name: BB60545
+Fullname: Hay, Marlene
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: TWR3
+HomeDirectory: \\perbwds01\home
+
+Name: BB61216
+Fullname: Nichols, David
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: EBS
+HomeDirectory: \\perbwds01\home
+
+Name: BB61389
+Fullname: Favas, Paul
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ALB
+HomeDirectory: \\albbwdc01\home
+
+Name: BB62296
+Fullname: Daniels, Linda
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: lsu1
+HomeDirectory: \\perbwds01\home
+
+Name: BB62806
+Fullname: McAlister, Jenny
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ASU
+HomeDirectory: \\perbwds01\home
+
+Name: BB63145
+Fullname: Bowler, Tim
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: lsu1
+HomeDirectory: \\perbwds01\home
+
+Name: BB6349
+Fullname: Douglas, Garry
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: 
+
+Name: BB64002
+Fullname: Byrne, Caroline
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ABC
+HomeDirectory: \\perbwds01\home
+
+Name: BB6446
+Fullname: De Gooijer, John
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: REMRM
+HomeDirectory: \\perbwds01\home
+
+Name: BB64492
+Fullname: Griffiths, John
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: CDV
+HomeDirectory: \\perbwds01\home
+
+Name: BB66981
+Fullname: Maguire, Lorraine
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: TWR3
+HomeDirectory: \\perbwds01\home
+
+Name: BB68975
+Fullname: Gerovich, Emma
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: twr4
+HomeDirectory: \\perbwds01\home
+
+Name: BB69468
+Fullname: Rafferty, Denise
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: wfs
+HomeDirectory: \\perbwds01\home
+
+Name: BB70124
+Fullname: Parker, Lyn
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ASU
+HomeDirectory: \\perbwds01\home
+
+Name: BB70378
+Fullname: Taylor, Lynda
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: nwb
+HomeDirectory: \\perbwds01\home
+
+Name: BB71243
+Fullname: Witte, Darren
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: TSL
+HomeDirectory: \\perbwds01\home
+
+Name: BB71405
+Fullname: Lockwood, Dean
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: adl
+HomeDirectory: \\perbwds01\home
+
+Name: BB73041
+Fullname: Joynson, Tracey
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ADL
+HomeDirectory: \\perbwds01\home
+
+Name: BB75962
+Fullname: Tam, Arthur
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: TRS
+HomeDirectory: \\perbwds01\home
+
+Name: BB76730
+Fullname: Walmsley, Kurt
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: ism
+HomeDirectory: \\frmbwds02\home
+
+Name: BB7808
+Fullname: Prokojes, George
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: lmu
+HomeDirectory: \\perbwds01\home
+
+Name: BB82860
+Fullname: Bubb, Katie
+Description: User
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: adl
+HomeDirectory: \\perbwds01\home
+
+----------------------------------------
+Local Groups:
+Name: Account Operators
+Description: Members can administer domain user and group accounts
+
+Name: Administrators
+Description: Administrators have complete and unrestricted access to the computer/domain
+
+Name: Backup Operators
+Description: Backup Operators can override security restrictions for the sole purpose of backing up or restoring files
+
+Name: Guests
+Description: Guests have the same access as members of the Users group by default, except for the Guest account which is further restricted
+
+Name: Incoming Forest Trust Builders
+Description: Members of this group can create incoming, one-way trusts to this forest
+
+Name: Network Configuration Operators
+Description: Members in this group can have some administrative privileges to manage configuration of networking features
+
+Name: Performance Log Users
+Description: Members of this group have remote access to schedule logging of performance counters on this computer
+
+Name: Performance Monitor Users
+Description: Members of this group have remote access to monitor this computer
+
+Name: Pre-Windows 2000 Compatible Access
+Description: A backward compatibility group which allows read access on all users and groups in the domain
+
+Name: Print Operators
+Description: Members can administer domain printers
+
+Name: Remote Desktop Users
+Description: Members in this group are granted the right to logon remotely
+
+Name: Replicator
+Description: Supports file replication in a domain
+
+Name: Server Operators
+Description: Members can administer domain servers
+
+Name: Terminal Server License Servers
+Description: Terminal Server License Servers
+
+Name: Users
+Description: Users are prevented from making accidental or intentional system-wide changes.  Thus, Users can run certified applications, but not most legacy applications
+
+Name: Windows Authorization Access Group
+Description: Members of this group have access to the computed tokenGroupsGlobalAndUniversal attribute on User objects
+
+Name: Cert Publishers
+Description: Members of this group are permitted to publish certificates to the Active Directory
+
+Name: RAS and IAS Servers
+Description: Servers in this group can access remote access properties of users
+
+Name: HelpServicesGroup
+Description: Group for the Help and Support Center
+
+Name: TelnetClients
+Description: Members of this group have access to Telnet Server on this system.
+
+Name: DnsAdmins
+Description: DNS Administrators Group
+
+Name: IIS_WPG
+Description: IIS Worker Process Group
+
+Name: DHCP Users
+Description: Members who have view-only access to the DHCP service
+
+Name: DHCP Administrators
+Description: Members who have administrative access to DHCP service
+
+Name: SMS_SiteSystemToSiteServerConnection_WEP
+Description: SMS accounts or machine accounts used for connecting remote site systems to the site server.
+
+Name: SMS_SiteToSiteConnection_WEP
+Description: SMS accounts or machine accounts used by other site servers in the SMS hierarchy to connect to this site server.
+
+Name: SMS_SiteSystemToSiteServerConnection_BRG
+Description: SMS accounts or machine accounts used for connecting remote site systems to the site server.
+
+Name: SMS_SiteToSiteConnection_BRG
+Description: SMS accounts or machine accounts used by other site servers in the SMS hierarchy to connect to this site server.
+
+Name: WINS Users
+Description: Members who have view-only access to the WINS Server
+
+Name: Access - Install
+Description: Install group for Access
+
+Name: Access - Nomad Install
+Description: SMS Nomad Install group for Access
+
+Name: Access - Nomad Uninstall
+Description: SMS Nomad Uninstall group for Access
+
+Name: Access - Uninstall
+Description: Uninstall group for Access
+
+Name: Accessibility - Install
+Description: Install group for Accessibility
+
+Name: Accessibility - Nomad Install
+Description: SMS Nomad Install group for Accessibility
+
+Name: Accessibility - Nomad Uninstall
+Description: SMS Nomad Uninstall group for Accessibility
+
+Name: Accessibility - Uninstall
+Description: Uninstall group for Accessibility
+
+Name: ActiMates - Install
+Description: Install group for ActiMates
+
+Name: ActiMates - Nomad Install
+Description: SMS Nomad Install group for ActiMates
+
+Name: ActiMates - Nomad Uninstall
+Description: SMS Nomad Uninstall group for ActiMates
+
+Name: ActiMates - Uninstall
+Description: Uninstall group for ActiMates
+
+Name: ActivDocsCreate - Install
+Description: Install group for ActivDocsCreate
+
+Name: ActivDocsCreate - Nomad Install
+Description: SMS Nomad Install group for ActivDocsCreate
+
+Name: ActivDocsCreate - Nomad Uninstall
+Description: SMS Nomad Uninstall group for ActivDocsCreate
+
+Name: ActivDocsCreate - Uninstall
+Description: Uninstall group for ActivDocsCreate
+
+Name: ActivDocsTemplateCreate - Install
+Description: Install group for ActivDocsTemplateCreate
+
+Name: ActivDocsTemplateCreate - Nomad Install
+Description: SMS Nomad Install group for ActivDocsTemplateCreate
+
+Name: ActivDocsTemplateCreate - Nomad Uninstall
+Description: SMS Nomad Uninstall group for ActivDocsTemplateCreate
+
+Name: ActivDocsTemplateCreate - Uninstall
+Description: Uninstall group for ActivDocsTemplateCreate
+
+Name: Active Accessibility - Install
+Description: Install group for Active Accessibility
+
+Name: Active Accessibility - Nomad Install
+Description: SMS Nomad Install group for Active Accessibility
+
+Name: Active Accessibility - Nomad Uninstall
+Description: SMS Nomad Uninstall group for Active Accessibility
+
+Name: Active Accessibility - Uninstall
+Description: Uninstall group for Active Accessibility
+
+Name: ActiveSync - Install
+Description: Install group for ActiveSync
+
+Name: ActiveSync - Nomad Install
+Description: SMS Nomad Install group for ActiveSync
+
+Name: ActiveSync - Nomad Uninstall
+Description: SMS Nomad Uninstall group for ActiveSync
+
+Name: ActiveSync - Uninstall
+Description: Uninstall group for ActiveSync
+
+Name: ActiveX Control Pad - Install
+Description: Install group for ActiveX Control Pad
+
+Name: ActiveX Control Pad - Nomad Install
+Description: SMS Nomad Install group for ActiveX Control Pad
+
+Name: ActiveX Control Pad - Nomad Uninstall
+Description: SMS Nomad Uninstall group for ActiveX Control Pad
+
+Name: ActiveX Control Pad - Uninstall
+Description: Uninstall group for ActiveX Control Pad
+
+Name: ActiveX Data Objects - Install
+Description: Install group for ActiveX Data Objects
+
+Name: ActiveX Data Objects - Nomad Install
+Description: SMS Nomad Install group for ActiveX Data Objects
+
+Name: ActiveX Data Objects - Nomad Uninstall
+Description: SMS Nomad Uninstall group for ActiveX Data Objects
+
+Name: ActiveX Data Objects - Uninstall
+Description: Uninstall group for ActiveX Data Objects
+
+Name: ActiveX Developer's Kit - Install
+Description: Install group for ActiveX Developer's Kit
+
+Name: ActiveX Developer's Kit - Nomad Install
+Description: SMS Nomad Install group for ActiveX Developer's Kit
+
+Name: ActiveX Developer's Kit - Nomad Uninstall
+Description: SMS Nomad Uninstall group for ActiveX Developer's Kit
+
+Name: ActiveX Developer's Kit - Uninstall
+Description: Uninstall group for ActiveX Developer's Kit
+
+Name: ADO.NET - Install
+Description: Install group for ADO.NET
+
+Name: ADO.NET - Nomad Install
+Description: SMS Nomad Install group for ADO.NET
+
+Name: ADO.NET - Nomad Uninstall
+Description: SMS Nomad Uninstall group for ADO.NET
+
+Name: ADO.NET - Uninstall
+Description: Uninstall group for ADO.NET
+
+Name: Adobe Standard 6.0 - Install
+Description: Install group for Adobe Standard 6.0
+
+Name: Adobe Standard 6.0 - Nomad Install
+Description: SMS Nomad Install group for Adobe Standard 6.0
+
+Name: Adobe Standard 6.0 - Nomad Uninstall
+Description: SMS Nomad Uninstall group for Adobe Standard 6.0
+
+Name: Adobe Standard 6.0 - Uninstall
+Description: Uninstall group for Adobe Standard 6.0
+
+Name: Adobe SVG Viewer 3.02 - Install
+Description: Install group for Adobe SVG Viewer 3.02
+
+Name: Adobe SVG Viewer 3.02 - Nomad Install
+Description: SMS Nomad Install group for Adobe SVG Viewer 3.02
+
+Name: Adobe SVG Viewer 3.02 - Nomad Uninstall
+Description: SMS Nomad Uninstall group for Adobe SVG Viewer 3.02
+
+Name: Adobe SVG Viewer 3.02 - Uninstall
+Description: Uninstall group for Adobe SVG Viewer 3.02
+
+Name: Age of Empires - Install
+Description: Install group for Age of Empires
+
+Name: Age of Empires - Nomad Install
+Description: SMS Nomad Install group for Age of Empires
+
+Name: Age of Empires - Nomad Uninstall
+Description: SMS Nomad Uninstall group for Age of Empires
+
+Name: Age of Empires - Uninstall
+Description: Uninstall group for Age of Empires
+
+Name: Age of Empires II - Install
+Description: Install group for Age of Empires II
+
+Name: Age of Empires II - Nomad Install
+Description: SMS Nomad Install group for Age of Empires II
+
+Name: Age of Empires II - Nomad Uninstall
+Description: SMS Nomad Uninstall group for Age of Empires II
+
+Name: Age of Empires II - Uninstall
+Description: Uninstall group for Age of Empires II
+
+Name: Age of Mythology - Install
+Description: Install group for Age of Mythology
+
+Name: Age of Mythology - Nomad Install
+Description: SMS Nomad Install group for Age of Mythology
+
+Name: Age of Mythology - Nomad Uninstall
+Description: SMS Nomad Uninstall group for Age of Mythology
+
+Name: Age of Mythology - Uninstall
+Description: Uninstall group for Age of Mythology
+
+Name: Agent - Install
+Description: Install group for Agent
+
+Name: Agent - Nomad Install
+Description: SMS Nomad Install group for Agent
+
+Name: Agent - Nomad Uninstall
+Description: SMS Nomad Uninstall group for Agent
+
+Name: Agent - Uninstall
+Description: Uninstall group for Agent
+
+Name: Alerts - Install
+Description: Install group for Alerts
+
+Name: Alerts - Nomad Install
+Description: SMS Nomad Install group for Alerts
+
+Name: Alerts - Nomad Uninstall
+Description: SMS Nomad Uninstall group for Alerts
+
+Name: Alerts - Uninstall
+Description: Uninstall group for Alerts
+
+----------------------------------------
